@@ -74,21 +74,4 @@ function App() {
  
   )
 }
-
-
-// function App () {
- 
-//   const [data, setdata] = useState('Shaheen')
-//   function handleClick(){
-//     setdata("Jereena")
-    
-//   }
-//   return(
-//     <div>
-//       <p> Hello World {data}</p>
-//       <button onClick={() => handleClick()}> CLick</button>
-//       </div>
-//   )
-//}
-
 export default App
